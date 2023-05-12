@@ -12,7 +12,6 @@ body.modo-escuro {
 }
 
 header {
-    border: 1px solid red;
     display: flex;
     justify-content: space-between;
     padding: 25px;
@@ -123,6 +122,17 @@ main .cartao-pokemon .tipo {
     background-color: #B0E0E6;
 }
 
+.eletrico {
+    background-color: #FFFF00;
+}
+
+.terra {
+    background: #CD853F;
+}
+
+.fada {
+    background: #FF69B4;
+}
 main .descricao {
     max-height: 80px;
     overflow-y: scroll;
