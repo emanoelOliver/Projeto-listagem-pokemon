@@ -1,5 +1,5 @@
 # Projeto-listagem-pokemon
-##Uma listagem de pokemon usando HTML5, CSS3 e JavaScript
+Uma listagem de pokemon usando HTML5, CSS3 e JavaScript
 
 ------
 
