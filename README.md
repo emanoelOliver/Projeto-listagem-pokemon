@@ -4,8 +4,8 @@ Uma listagem de pokemon usando HTML5, CSS3 e JavaScript
 É um intensivo de uma semana envolvendo HTML 5, CSS 3 e JavaScript.
 Contendo Aulas e lives abordando o básico.
 
-Horas: 7h 34min (ainda tem mais aulas para acontecer)
-Nivel: Básico
+<h2>Horas: 7h 34min (ainda tem mais aulas para acontecer)</h2>
+<h2>Nivel: Básico</h2>
 
 Conteudos abordados em aula:
 Aula 1:
