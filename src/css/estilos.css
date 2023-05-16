@@ -7,8 +7,7 @@ body {
 }
 
 body.modo-escuro {
-    background-color: #212121;
-    color: #F5F5F5;
+    background: radial-gradient(circle, rgba(199,195,197,1) 47%, rgba(0,0,0,1) 100%);    color: #333333;
 }
 
 header {
@@ -56,7 +55,6 @@ main .listagem-pokemon {
 
 main .cartao-pokemon {
     background: linear-gradient(0deg, rgba(216,227,236,1) 35%, rgba(164,255,221,1) 100%);
-
     width: 200px;
     padding: 15px;
     display: flex;
@@ -68,7 +66,7 @@ main .cartao-pokemon {
 }
 
 .modo-escuro .cartao-pokemon {
-    background: #A8A8A8;
+    background: linear-gradient(0deg, rgba(216,227,236,1) 35%, rgb(82, 167, 136) 100%);
 }
 
 main .cartao-pokemon .informacoes {
